@@ -1,0 +1,8 @@
+print("Hello\bs World")
+print("Hello\fs World")
+print("Hello\n0s World")
+print("Hello\rs World")
+print("Hello\'s World")
+print("Hello\ts World")
+print("Hello\"s World")
+print("Hello\\s World")
